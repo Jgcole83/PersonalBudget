@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Groceries",
+      "balance": 100
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Rent",
+      "balance": 800
+    }
+  ]
+  

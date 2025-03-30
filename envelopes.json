@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1743370793134,
+    "userId": 1,
+    "name": "Groceries",
+    "balance": 500
+  },
+  {
+    "id": 1743371454094,
+    "userId": 1,
+    "name": "My Envelope",
+    "balance": 8
+  }
+]
